@@ -83,3 +83,17 @@
   top: 100%;
   transform: translateX(-50%);
 }
+
+.tooltip.left::before {
+  right: calc(100% + 5px);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.tooltip.left::after {
+  border-left-color: var(--clr-neutral-dark);
+  border-right-width: 0;
+  right: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
