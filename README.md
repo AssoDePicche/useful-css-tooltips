@@ -11,6 +11,10 @@ Tooltip on:
 - [ ] left
 - [ ] right
 
+## Live preview
+
+You can see how it works by clicking [here](https://useful-css-tooltips.netlify.app/).
+
 ## How to Install
 
 Clone the repository on your device and open the `index.html` file in your favorite browser. The css classes are located [here](src/style/style.css).
