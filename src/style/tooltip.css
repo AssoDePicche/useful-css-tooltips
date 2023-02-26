@@ -55,3 +55,17 @@
   border-bottom-width: 0;
   bottom: 100%;
 }
+
+.tooltip.right::before {
+  left: calc(100% + 5px);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.tooltip.right::after {
+  border-right-color: var(--clr-neutral-dark);
+  border-left-width: 0;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
