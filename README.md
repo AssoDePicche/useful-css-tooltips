@@ -8,7 +8,7 @@ Tooltip on:
 
 - [x] top
 - [x] bottom
-- [ ] left
+- [x] left
 - [x] right
 
 ## Live preview
