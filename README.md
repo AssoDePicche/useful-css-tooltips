@@ -6,7 +6,7 @@ A tooltip is often used to specify extra information about something when the us
 
 Tooltip on:
 
-- [ ] top
+- [x] top
 - [ ] bottom
 - [ ] left
 - [ ] right
