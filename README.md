@@ -7,9 +7,9 @@ A tooltip is often used to specify extra information about something when the us
 Tooltip on:
 
 - [x] top
-- [x] bottom
+- [ ] bottom
 - [ ] left
-- [ ] right
+- [x] right
 
 ## Live preview
 
