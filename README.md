@@ -17,7 +17,7 @@ You can see how it works by clicking [here](https://useful-css-tooltips.netlify.
 
 ## How to Install
 
-Clone the repository on your device and open the `index.html` file in your favorite browser. The css classes are located [here](src/style/style.css).
+Clone the repository on your device and open the `index.html` file in your favorite browser. The css classes are located [here](src/style/).
 
 ```bash
 git clone git@github.com:AssoDePicche/useful-css-tooltips.git
